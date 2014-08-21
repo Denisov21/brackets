@@ -1,0 +1,13 @@
+{
+    "name": "",
+    "title": "",
+    "description": "",
+    "homepage": "",
+    "version": "",
+    "author": "",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "i18n": ["en", "fr" ]
+}
