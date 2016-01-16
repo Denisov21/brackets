@@ -194,6 +194,7 @@ define({
     "FIND_IN_FILES_PAGING"              : "{0}&mdash;{1}",
     "FIND_IN_FILES_FILE_PATH"           : "<span class='dialog-filename'>{0}</span> {2} <span class='dialog-path'>{1}</span>", // We shoudl use normal dashes on Windows instead of em dash eventually
     "FIND_IN_FILES_EXPAND_COLLAPSE"     : "Ctrl/Cmd click per Espandere/Comprimi tutto",
+    "FIND_IN_FILES_INDEXING"            : "Indicizzazione per ricerca immediata\u2026",
     "REPLACE_IN_FILES_ERRORS_TITLE"     : "Sostituire errori",
     "REPLACE_IN_FILES_ERRORS"           : "I seguenti file non sono stati modificati perché hanno cambiato dopo la ricerca o non potevano essere scritti.",
 
